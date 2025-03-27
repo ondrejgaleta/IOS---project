@@ -1,4 +1,4 @@
-# Project 2 - Synchronization (Operating Systems)
+# IOS 2021 - Project 2 - Synchronization (Operating Systems)
 
 ## Description
 This project is a synchronization task for the subject IOS. It involves simulating a Christmas scenario where Santa Claus, elves, and reindeer coordinate their actions using semaphores and shared memory. The project ensures correct synchronization of these entities based on predefined rules.
